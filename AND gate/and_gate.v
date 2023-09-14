@@ -1,6 +1,5 @@
 module top_module( 
-    input a, 
-    input b, 
+    input a, b, 
     output out );
 	assign out=a&b;
 endmodule
