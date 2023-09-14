@@ -8,3 +8,7 @@ Description: Here, a & b are input ports and out is the output port. This code i
 ## NOR gate
 Circuit diagram: https://github.com/Sarunesh/Verilog/blob/main/NOR%20gate/Norgate.png
 Description: Here, a & b are input ports and out is the output port. This code is written using Behavioral modelling.
+
+## XNOR gate
+Circuit diagram: https://github.com/Sarunesh/Verilog/blob/main/XNOR%20gate/Xnorgate.png
+Description: Here, a & b are input ports and out is the output port. This code is written using Behavioral modelling.
