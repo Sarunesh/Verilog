@@ -15,3 +15,8 @@ Code: https://github.com/Sarunesh/Verilog/blob/main/NOR%20gate/nor_gate.v
 Circuit diagram: https://github.com/Sarunesh/Verilog/blob/main/XNOR%20gate/Xnorgate.png
 Description: Here, a & b are input ports and out is the output port. This code is written using Behavioral modelling.
 Code: https://github.com/Sarunesh/Verilog/blob/main/XNOR%20gate/xnor_gate.v
+
+## IC7458
+Circuit diagram: https://github.com/Sarunesh/Verilog/blob/main/IC7458/7458.png
+Description: The 7458 is a chip with four AND gates and two OR gates. This code is written using Gate level modelling.
+Code: https://github.com/Sarunesh/Verilog/blob/main/IC7458/ic7458.v
