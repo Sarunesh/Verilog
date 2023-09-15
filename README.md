@@ -1,4 +1,4 @@
-# Verilog
+<h1>VERILOG</h1>
 In this repos, I've included the codes that're written by me using Verilog HDL. 
 
 ## AND gate
