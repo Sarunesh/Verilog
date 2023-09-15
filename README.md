@@ -36,6 +36,6 @@ In this repos, I've included the codes that're written by me using Verilog HDL.
 <i>Code</i>: https://github.com/Sarunesh/Verilog/blob/main/vector_reversal.v
 
 ## Replication & Concatenation of inputs
-<i>Circuit diagram</i>: https://github.com/Sarunesh/Verilog/blob/main/Replication%20%26%20Concatenation%20of%20inputs/replication%26concatenation%20of%20inputs.png<br/>
+<i>Logic diagram</i>: https://github.com/Sarunesh/Verilog/blob/main/Replication%20%26%20Concatenation%20of%20inputs/replication%26concatenation%20of%20inputs.png<br/>
 <i>Description</i>: Given five 1-bit signals (a, b, c, d, and e), compute all 25 pairwise one-bit comparisons in the 25-bit output vector. The output should be 1 if the two bits being compared are equal. XNOR logic has been applied to achieve the result.<br/>
 <i>Code</i>: https://github.com/Sarunesh/Verilog/blob/main/Replication%20%26%20Concatenation%20of%20inputs/replication%26concatenation_of_inputs.v
