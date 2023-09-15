@@ -24,7 +24,7 @@ In this repos, I've included the codes that're written by me using Verilog HDL.
 ## Vector Reversal
 <i>Description</i>: The bit reversing of an 8-bit vector is done using 
                     <ul>
-                      &nbsp<li>**assign**</li>
+                      <li>&nbsp**assign**</li>
                       <li>**for loop**</li>
                       <li>**generate-for loop**</li>
                     </ul><br/>
