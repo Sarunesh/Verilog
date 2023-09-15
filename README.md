@@ -23,10 +23,14 @@ In this repos, I've included the codes that're written by me using Verilog HDL.
 
 ## Vector Reversal
 <i>Description</i>: The bit reversing of an 8-bit vector is done using 
-                    <ul><li>**assign**</li><li>**for loop**</li><li>**generate-for loop**</li></ul><br/>
+                    <ul>
+                      &nbsp<li>**assign**</li>
+                      <li>**for loop**</li>
+                      <li>**generate-for loop**</li>
+                    </ul><br/>
 <i>Note</i>: <ol type="i">
                 <li>assign out[7:0] = in[0:7]; does not work because Verilog does not allow vector bit ordering to be flipped.</li>
                 <li>for loop is executed sequentially during **simulation** rather than compile time.</li>
                 <li>generate-for loop is evaluated entirely during **compile time**.</li>
              </ol>
-<i>Code</i>: https://github.com/Sarunesh/Verilog/blob/main/IC7458/ic7458.v
+<i>Code</i>: https://github.com/Sarunesh/Verilog/blob/main/vector_reversal.v
