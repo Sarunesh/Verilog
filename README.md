@@ -43,8 +43,8 @@ In this repos, I've included the codes that're written by me using Verilog HDL.
 ## Shift register of length 3
 <i>Circuit diagram</i>: https://github.com/Sarunesh/Verilog/blob/main/Shift%20register%20of%20length%203/shift_register%20length%203.png<br/>
 <i>Description</i>: <ul>
-<li>Module my_dff is a **positive edge triggered D-flip flop**.</li>
-<li>I've chained 3 of these D-flip flops to create a **Shift Register of length 3**.</li>
+<li>Module my_dff is a positive edge triggered D-flip flop.</li>
+<li>I've chained 3 of these D-flip flops to create a Shift Register of length 3.</li>
 <li>The module my_dff is instantiated thrice(D1, D2, D3) inside module shift_register_length3 to achieve this.</li>
 <li>clk & d are the inputs and q is the output of the shift register.</li></ul><br/>
 <i>Code</i>: https://github.com/Sarunesh/Verilog/blob/main/Shift%20register%20of%20length%203/shift_register_3.v
