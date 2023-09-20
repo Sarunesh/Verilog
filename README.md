@@ -48,3 +48,10 @@ In this repos, I've included the codes that're written by me using Verilog HDL.
 <li>The module my_dff is instantiated thrice(D1, D2, D3) inside module shift_register_length3 to achieve this.</li>
 <li>clk & d are the inputs and q is the output of the shift register.</li></ul><br/>
 <i>Code</i>: https://github.com/Sarunesh/Verilog/blob/main/Shift%20register%20of%20length%203/shift_register_3.v
+
+## 32bit_adder
+<i>Circuit diagram</i>: https://github.com/Sarunesh/Verilog/blob/main/32bit_adder/32bit_adder.png<br/>
+<i>Description</i>: <ul>
+<li>Here, I've instantiated 2 16-bit adders to form a 32-bit adder.</li>
+<li>A 167-bit adder has 3 inputs and 2 outputs. The 3rd input of first 16-bit adder is given as 0 and its cout is giver as the 3rd input of the second 16-bit adder whose cout is ignored.</li>
+<i>Code</i>: https://github.com/Sarunesh/Verilog/blob/main/32bit_adder/32bit_adder.v
