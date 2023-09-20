@@ -27,7 +27,7 @@ In this repos, I've included the codes that're written by me using Verilog HDL.
                       <li>**assign**</li>
                       <li>**for loop**</li>
                       <li>**generate-for loop**</li>
-                    </ul><br/>
+                    </ul>
 <i>Note</i>: <ol type="i">
                 <li>assign out[7:0] = in[0:7]; does not work because Verilog does not allow vector bit ordering to be flipped.</li>
                 <li>for loop is executed sequentially during **simulation** rather than compile time.</li>
@@ -53,5 +53,5 @@ In this repos, I've included the codes that're written by me using Verilog HDL.
 <i>Circuit diagram</i>: https://github.com/Sarunesh/Verilog/blob/main/32bit_adder/32bit_adder.png<br/>
 <i>Description</i>: <ul>
 <li>Here, I've instantiated 2 16-bit adders to form a 32-bit adder.</li>
-<li>A 167-bit adder has 3 inputs and 2 outputs. The 3rd input of first 16-bit adder is given as 0 and its cout is giver as the 3rd input of the second 16-bit adder whose cout is ignored.</li></ul>
+<li>A 16-bit adder has 3 inputs and 2 outputs. The 3rd input of first 16-bit adder is given as 0 and its cout is giver as the 3rd input of the second 16-bit adder whose cout is ignored.</li></ul>
 <i>Code</i>: https://github.com/Sarunesh/Verilog/blob/main/32bit_adder/32bit_adder.v
